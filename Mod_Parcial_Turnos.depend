@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1529699877 source:c:\test\mercedes guerrero\mod_parcial_turnos\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+
+1529698034 c:\test\mercedes guerrero\mod_parcial_turnos\arraylist.h
+
+1529699389 source:c:\test\mercedes guerrero\mod_parcial_turnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arraylist.h"
+	"Funciones.h"
+
+1529699164 c:\test\mercedes guerrero\mod_parcial_turnos\funciones.h
+
