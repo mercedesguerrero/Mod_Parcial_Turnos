@@ -4,6 +4,7 @@
 struct
 {
     int dni;
+    int idTramite;
     int turno_numero;
 
 }typedef Pacient;
@@ -16,4 +17,5 @@ void presionarContinuar();
 int getInt();
 
 void printPacient(Pacient* p);
-Pacient* newPacient(int dni, int num_turno);
+Pacient* newPacient();
+Pacient* newPacientUrgente(int dni, int num_turno);
